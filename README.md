@@ -1,4 +1,4 @@
 # RupinCodes
 This is my First Repository
 <br>
-Author - Rupinderjit Kaur
+Author - Rupinderjit (rupincodes)
